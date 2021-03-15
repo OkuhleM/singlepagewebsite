@@ -1,16 +1,22 @@
 .header {
   background-color: black;
   color: white;
-  padding: 29px;
+  padding: auto;
   margin: auto;
   font-family: serif;
   font-size: large;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  
+  
 }
 
 .Okuhle {
   background-color: white;
   color: black;
-  padding: 15px;
+  padding: 40px;
   margin: auto;
   font-family: serif;
   font-size: large;
@@ -19,7 +25,7 @@
 .footer {
   background-color: grey;
   color: black;
-  padding: 29px;
+  padding: auto;
   margin: auto;
   font-family: serif;
   font-size: large;
